@@ -73,6 +73,8 @@ pytest
 
 ### Résultat attendu :
 
+![Tests unitaires réussis](tests_passed.png)
+
 ## Structure du projet
 ``` BASH
 SAGA_MOVIES/
@@ -94,3 +96,4 @@ SAGA_MOVIES/
 - Aucun frontend par choix : l’objectif est de se concentrer sur la logique métier
 
 - Le code est volontairement simple, lisible et facilement testable
+
