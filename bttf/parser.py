@@ -15,7 +15,7 @@ def lire_panier(texte_panier: str) -> List[str]:
 
     for ligne in lignes:
         titre = ligne.strip()
-        if titre:  # ignore les lignes vides
+        if titre:  # ignore les lignes vides 
             titres.append(titre)
 
     return titres
